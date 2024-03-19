@@ -36,6 +36,10 @@ public class Recursion_Practice {
 
 	}
 
+	public static void ankita() {
+		System.out.println(" Hello ankita ");
+	}
+
 	public static void main(String args[]) {
 
 		System.out.println(power(2, 10));
