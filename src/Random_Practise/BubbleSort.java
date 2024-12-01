@@ -1,4 +1,4 @@
-package Sorting;
+package Random_Practise;
 
 import java.util.Arrays;
 import java.util.Collection;

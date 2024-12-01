@@ -1,4 +1,4 @@
-package Arrays;
+package Random_Practise;
 
 import java.util.*;
 

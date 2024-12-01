@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
-	<name>DSA_Solution</name>
-=======
+
 	<name>DSA</name>
->>>>>>> 66a74c4e34fe1c5f85a89e16989f1289bca2d137
+
 	<comment></comment>
 	<projects>
 	</projects>
@@ -18,8 +16,7 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-<<<<<<< HEAD
-=======
+
 	<filteredResources>
 		<filter>
 			<id>1710838851556</id>
@@ -31,5 +28,5 @@
 			</matcher>
 		</filter>
 	</filteredResources>
->>>>>>> 66a74c4e34fe1c5f85a89e16989f1289bca2d137
+
 </projectDescription>

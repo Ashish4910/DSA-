@@ -1,4 +1,4 @@
-package Com.Pattern.DSA;
+package Random_Practise;
 
 public class number_triangle {
 public static void main(String[] args) {

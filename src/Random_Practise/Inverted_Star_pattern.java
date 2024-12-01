@@ -1,4 +1,4 @@
-package Com.Pattern.DSA;
+package Random_Practise;
 
 public class Inverted_Star_pattern {
 public static void main(String[] args) {

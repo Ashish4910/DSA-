@@ -1,4 +1,5 @@
-package Com.Pattern.DSA;
+package Random_Practise;
+
 
 public class pattern {
 	public static void main(String[] args) {
